@@ -1,2 +1,2 @@
-C programs for scpd course - Stanford Center for Professional Development Using Cryptography Correctly XACS130
+C programs for SCPD course - Stanford Center for Professional Development Using Cryptography Correctly XACS130
 
